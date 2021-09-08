@@ -1,0 +1,25 @@
+﻿<Window x:Class="Spurs.Splash"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Spurs"
+        mc:Ignorable="d"
+        Title="Splash" Height="480" Width="480"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        AllowsTransparency="True"
+        MouseLeftButtonDown="move" Background="White">
+    <Grid >
+        <Label x:Name="label" Content="Spurs Store Mangament" HorizontalAlignment="Left" Margin="92,77,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Simplified Arabic" FontSize="29.333" Foreground="#FFB32B1C" OpacityMask="#FFB32B1C" Width="331"/>
+        <Label x:Name="label1"  HorizontalAlignment="Left" Margin="19,50,0,0" VerticalAlignment="Top" Height="72" Width="73">
+            <Label.Background>
+                <ImageBrush ImageSource="media/ico.png"/>
+            </Label.Background>
+        </Label>
+        <Label x:Name="label2" Content="Welcome To Spurs LTD 2016" HorizontalAlignment="Left" Margin="104,186,0,0" VerticalAlignment="Top" Width="263" Height="46" FontSize="24" Foreground="#FFC38078" FontFamily="Shonar Bangla"/>
+        <Button x:Name="btnContinue" Content="Continue" HorizontalAlignment="Left" Margin="204,328,0,0" VerticalAlignment="Top" Width="75" Background="White" Foreground="#FFB32B1C" BorderBrush="#FFB32B1C" Click="btnContinue_Click"/>
+        <Button x:Name="btnClose" Content="CLose" HorizontalAlignment="Left" Margin="204,364,0,0" VerticalAlignment="Top" Width="75" Background="White" Foreground="#FFB32B1C" BorderBrush="#FFB32B1C" Click="btnCLose_Click"/>
+
+    </Grid>
+</Window>

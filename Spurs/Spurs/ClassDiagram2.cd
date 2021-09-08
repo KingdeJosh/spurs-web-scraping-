@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Spurs.AllStores" BaseTypeListCollapsed="true">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Spurs.AllStores.Stores" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AllStores.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAACAAAAAIIAAAAAAAAQACBAQAAAAAAA=</HashCode>
+      <FileName>AllStores.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.AllSup" BaseTypeListCollapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Spurs.AllSup.Supplier" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AllSup.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAACCAAAQIIAAAAAAAAQAABAAAAAAAAA=</HashCode>
+      <FileName>AllSup.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.App">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spurs.calmenu" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACYAAAAAIQAAAAARCQAABAQAAAAAJA=</HashCode>
+      <FileName>calmenu.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.CAOSuppliertype" BaseTypeListCollapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Spurs.CAOSuppliertype.Suppliertype" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CAOSuppliertype .xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAIAACCAAAAIIAAAAAIAAQAABABAAAAAQE=</HashCode>
+      <FileName>CAOSuppliertype .xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.COSuppliertypeStore" BaseTypeListCollapsed="true">
+    <Position X="15.75" Y="4.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Spurs.COSuppliertypeStore.Suppliertype" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>COSuppliertypeStore.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Spurs.COSuppliertypeStore.Stores" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>COSuppliertypeStore.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAIAACCAAAAIIAAAAAIAAQAABABAAAAAQE=</HashCode>
+      <FileName>COSuppliertypeStore.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.COWeeekSupplierStore" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Spurs.COWeeekSupplierStore.Suppliertype" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>COWeeekSupplierStore.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Spurs.COWeeekSupplierStore.Stores" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>COWeeekSupplierStore.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAIAACCAAAAIIAAAAAIAAQAABABAAAAAQE=</HashCode>
+      <FileName>COWeeekSupplierStore.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.COWeekSupplierType" BaseTypeListCollapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Spurs.COWeekSupplierType.Suppliertype" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>COWeekSupplierType.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAIAACCAAAAIIAAAAAIAAQAABABAAAAAQE=</HashCode>
+      <FileName>COWeekSupplierType.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.Graph" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="4" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Spurs.Graph.Supplier" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Graph.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACCAAQAAICAAAAAAAAAAAABAAEAAAA=</HashCode>
+      <FileName>Graph.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.Import" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Spurs.Import.myCSVFile" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Import.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABAAAAgAAAAAAACAACAAIIAAAAAAAAQAABAAAAAAAAA=</HashCode>
+      <FileName>Import.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAQAABEgIAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.Splash" BaseTypeListCollapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Splash.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.Storedata" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAACAAAIAAIAAAAAAAAQAABAAAAAACAA=</HashCode>
+      <FileName>Storedata.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.suptypes" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Spurs.suptypes.Suppliertype" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>suptypes.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABAAgAAAAAAAAACAAAAAIIAAAAAAAAQAABAAAAAAAQA=</HashCode>
+      <FileName>suptypes.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.TCAOsinglestore" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Spurs.TCAOsinglestore.Stores" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TCAOsinglestore.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Spurs.TCAOsinglestore.Stores1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TCAOsinglestore.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAIAACABAAAIIAAAAAIAAQAABABAAAAAQE=</HashCode>
+      <FileName>TCAOsinglestore.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.TCOSupplier" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Spurs.TCOSupplier.Supplier" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TCOSupplier.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAIAACCAAAAIIAAAAAIAAQAABABAAAAAQE=</HashCode>
+      <FileName>TCOSupplier.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.TCOWeekAStores" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Spurs.TCOWeekAStores.Total" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TCOWeekAStores.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAIAACAAAAAIIAAAAAAAAQAABAAAAAAAAE=</HashCode>
+      <FileName>TCOWeekAStores.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.TCOWeekSingleStore" BaseTypeListCollapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Spurs.TCOWeekSingleStore.Stores" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TCOWeekSingleStore.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Spurs.TCOWeekSingleStore.Total" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TCOWeekSingleStore.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAIAACAAAAAIIAAAAAIAAQAABABAAAAAAE=</HashCode>
+      <FileName>TCOWeekSingleStore.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Spurs.Properties.Resources">
+    <Position X="7" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spurs.Properties.Settings">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

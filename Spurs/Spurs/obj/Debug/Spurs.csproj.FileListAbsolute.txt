@@ -1,0 +1,146 @@
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\bin\Debug\Spurs.exe.config
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\bin\Debug\Spurs.exe
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\bin\Debug\Spurs.pdb
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\Spurs.csprojResolveAssemblyReference.cache
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\MainWindow.g.cs
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\Splash.g.cs
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\App.g.cs
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\Spurs_MarkupCompile.cache
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\Spurs_MarkupCompile.lref
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\MainWindow.baml
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\Splash.baml
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\Spurs.g.resources
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\Spurs.Properties.Resources.resources
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\Spurs.csproj.GenerateResource.Cache
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\Spurs.exe
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\Spurs.pdb
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\Import.g.cs
+c:\users\akujobi joshua\documents\visual studio 2015\Projects\Spurs\Spurs\obj\Debug\Import.baml
+C:\Users\Akujobi Joshua\Documents\Visual Studio 2015\Projects\Spurs\Spurs\obj\Debug\App.baml
+C:\Users\Akujobi Joshua\Documents\Visual Studio 2015\Projects\Spurs\Spurs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Akujobi Joshua\Documents\Visual Studio 2015\Projects\Spurs\Spurs\bin\Debug\Devart.Data.dll
+C:\Users\Akujobi Joshua\Documents\Visual Studio 2015\Projects\Spurs\Spurs\bin\Debug\Devart.Data.Linq.dll
+C:\Users\Akujobi Joshua\Documents\Visual Studio 2015\Projects\Spurs\Spurs\bin\Debug\Devart.Data.MySql.dll
+C:\Users\Akujobi Joshua\Documents\Visual Studio 2015\Projects\Spurs\Spurs\bin\Debug\Devart.Data.MySql.Linq.dll
+C:\Users\Akujobi Joshua\Documents\Visual Studio 2015\Projects\Spurs\Spurs\bin\Debug\FileHelpers.dll
+C:\Users\Akujobi Joshua\Documents\Visual Studio 2015\Projects\Spurs\Spurs\bin\Debug\FileHelpers.xml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\Spurs.exe.config
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Spurs.exe
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Spurs.pdb
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\Spurs.exe
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\Spurs.pdb
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\Devart.Data.dll
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\Devart.Data.Linq.dll
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\Devart.Data.MySql.dll
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\Devart.Data.MySql.Linq.dll
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\FileHelpers.dll
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\FileHelpers.xml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Spurs.csprojResolveAssemblyReference.cache
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Import.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\MainWindow.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Splash.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\App.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Spurs_MarkupCompile.cache
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Spurs_MarkupCompile.lref
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\App.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Import.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\MainWindow.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Splash.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Spurs.g.resources
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Spurs.Properties.Resources.resources
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Spurs.csproj.GenerateResource.Cache
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Storedata.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Storedata.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\AllStores.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\AllStores.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\suptypes.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\suptypes.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\AllSup.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\AllSup.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\TCAOsinglestore.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\TCAOsinglestore.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\calmenu.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\calmenu.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\TCOWeekAStores.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\TCOWeekAStores.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\TCOWeekSingleStore.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\TCOWeekSingleStore.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\TCOSupplier.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\TCOSupplier.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\CAOSuppliertype .g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\CAOSuppliertype .baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\COWeekSupplierType.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\COWeekSupplierType.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\COSuppliertypeStore.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\COSuppliertypeStore.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\COWeeekSupplierStore.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\COWeeekSupplierStore.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\WPFToolkit.dll
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Graph.g.cs
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\obj\Debug\Graph.baml
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\MaterialDesignColors.dll
+C:\Users\Akujobi Joshua\Documents\Spurs\Spurs\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\Spurs.exe.config
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Spurs.exe
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Spurs.pdb
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\Spurs.exe
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\Spurs.pdb
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\Devart.Data.dll
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\Devart.Data.Linq.dll
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\Devart.Data.MySql.dll
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\Devart.Data.MySql.Linq.dll
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\FileHelpers.dll
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\MaterialDesignColors.dll
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\WPFToolkit.dll
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\bin\Debug\FileHelpers.xml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Spurs.csprojResolveAssemblyReference.cache
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\AllStores.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\AllSup.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\calmenu.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\CAOSuppliertype .g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\COSuppliertypeStore.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\COWeeekSupplierStore.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\COWeekSupplierType.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Graph.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Import.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\MainWindow.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Splash.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Storedata.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\suptypes.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\TCAOsinglestore.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\TCOSupplier.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\TCOWeekAStores.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\TCOWeekSingleStore.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\App.g.cs
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Spurs_MarkupCompile.cache
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Spurs_MarkupCompile.lref
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\App.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\AllStores.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\AllSup.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\calmenu.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\CAOSuppliertype .baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\COSuppliertypeStore.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\COWeeekSupplierStore.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\COWeekSupplierType.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Graph.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Import.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\MainWindow.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Splash.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Storedata.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\suptypes.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\TCAOsinglestore.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\TCOSupplier.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\TCOWeekAStores.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\TCOWeekSingleStore.baml
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Spurs.g.resources
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Spurs.Properties.Resources.resources
+C:\Users\Akujobi Joshua\Documents\school\Joshua Akujobi Chukwukamnelanya_14902014\Spurs\Spurs\obj\Debug\Spurs.csproj.GenerateResource.Cache
